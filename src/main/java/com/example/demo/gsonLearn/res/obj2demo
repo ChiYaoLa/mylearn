@@ -1,0 +1,11 @@
+{
+  "name": "ALemon",
+  "age": 24.2,
+  "car": null,
+  "major":["敲代码","学习"],
+  "time":"2020-08-09 11:02",
+  "Nativeplace": {
+  "city": "广州",
+  "country":"china"
+  }
+}
